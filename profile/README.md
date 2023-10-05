@@ -12,7 +12,7 @@ A month long contest starting from October 7th to get people involved in [Open S
 
 Choose any project and start fixing the issues. Every issue you fix will fetch you some points according to the difficulty. There are goodies waiting for you :P. So, Stay tuned and keep checking the repos [here](https://github.com/ContriHUB) for more projects and issues :smiley:
 
-For more details checkout [CONTROBUTING.md](https://github.com/ContriHUB/ContriHUB-23/blob/main/CONTRIBUTING.md)
+For more details checkout [CONTRIBUTING.md](https://github.com/ContriHUB/ContriHUB-23/blob/main/CONTRIBUTING.md)
 
 ## Maintainers
 
