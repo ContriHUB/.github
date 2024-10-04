@@ -16,7 +16,8 @@ For more details checkout [CONTRIBUTING.md](https://github.com/ContriHUB/ContriH
 
 ## Maintainers
 
-- [Sanskar Omar](https://github.com/sanskaromar)
-- [Priyav K Kaneria](https://github.com/PriyavKaneria)
-- [Shashank Verma](https://github.com/shank03)
-- [Amit Kumar](https://github.com/hackeramitkumar)
+- [Abhishek Patel](https://github.com/meisabhishekpatel)
+- [Pranav Sanand Puligandla](https://github.com/Pra-San)
+- [Sai Dheeraj Peketi](https://github.com/SaiDheerajPeketi)
+- [Nandika Agarwal](https://github.com/Nandika-A)
+- [Eleena Sarah Mathew](https://github.com/eleensmathew)
